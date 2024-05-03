@@ -163,3 +163,8 @@ cython_debug/
 dataset/
 presentation/
 BigData/
+models/
+
+*.txt
+*.csv
+*.pkl
