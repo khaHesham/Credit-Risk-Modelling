@@ -164,6 +164,7 @@ dataset/
 presentation/
 BigData/
 models/
+plots/
 
 *.txt
 *.csv
