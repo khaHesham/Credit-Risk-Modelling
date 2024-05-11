@@ -165,6 +165,5 @@ BigData/
 models/
 plots/
 
-*.txt
 *.csv
 *.pkl
