@@ -68,13 +68,12 @@ The dataset used in this project comprises anonymized historical loan data, incl
 1. Clone this repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Execute the Jupyter notebooks in the `notebooks/` directory sequentially to preprocess the data, train the model, and evaluate its performance.
-4. Alternatively, run the Python scripts in the `src/` directory for individual tasks such as data preprocessing, model training, and evaluation.
 
 ## Results
 
-The trained credit risk model achieves an accuracy of average  87%. Further details and insights are provided in the [results notebook](./5_BigData_algorithms.ipynb).
+The trained credit risk model achieves an accuracy of average  87%. Further details and insights are provided in the [results notebook](./notebooks/5_BigData_algorithms.ipynb).
 
-All visualizations can be found in [preprocecssing](./1_preprocessing.ipynb) and [EDA](./2_EDA_And_FeatureEngineering.ipynb) notebooks
+All visualizations can be found in [preprocecssing](./notebooks/1_preprocessing.ipynb) and [EDA](./notebooks/2_EDA_And_FeatureEngineering.ipynb) notebooks
 
 ## Future Improvements
 
