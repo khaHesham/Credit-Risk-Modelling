@@ -161,7 +161,6 @@ cython_debug/
 
 
 dataset/
-presentation/
 BigData/
 models/
 plots/
